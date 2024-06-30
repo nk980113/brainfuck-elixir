@@ -1,0 +1,1 @@
+all programs in `testcases/` are from either wikipedia or esolangs.org
